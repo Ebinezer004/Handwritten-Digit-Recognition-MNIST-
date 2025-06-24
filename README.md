@@ -54,8 +54,7 @@ Developed a **Tkinter GUI** where users can:
 ---
 
 ## 🔗 Links
-[🔗 Google Drive Folder](Insert Drive Link)  
-[🐱 GitHub Repo](Insert GitHub Repo Link)
+[🔗 https://drive.google.com/drive/folders/1W6ncltuUIHQz2JlE1BwENAXyiGyueZ73?usp=sharing 
 
 ---
 
